@@ -48,13 +48,17 @@ main {
 
 /*Josh*/
   .snippet-box-text {
-    font-size: 26px;
-    color: #f6f6ef;
-    background-color: var(--purple-text);
+    font-size: 16px;
+    color: var(--purple-text);
+    background-color: var(--background-color);
   }
 
   /*Josh*/
-  .snippet.box-code{
+  .snippet-box-code{
+    background-color:rgba(232,102,236,0.6);
+    height:150px;
+    color:white;
+    justify-content: center;
 
 
   }
