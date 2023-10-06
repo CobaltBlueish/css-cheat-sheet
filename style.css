@@ -3,23 +3,26 @@
   --background-color:rgb(51, 57, 62);
   --purple-text:#eb11eb;
 }
+
+/*David*/
 header{
   color:var(--purple-text);
 
 }
 
 
-
+/*David*/
 nav {
 
 }
 
+/*Josh*/
 body {
   background-color:var(--background-color);
 
 }
 
-/* Container where we want flex to occur*/
+/*Josh*/
 main {
   width: 100%;
   height: 1000px;
@@ -27,10 +30,9 @@ main {
   flex-wrap: wrap;
   padding:20px;
   justify-content: space-between;
-
-
 }
 
+/*Joel*/
 .snippet-box{
     width: 25%;
     height: 200px;
@@ -38,26 +40,26 @@ main {
     border: 15px solid black;
   }
 
+/*Joel*/
   .snippet-box header{
     color:var(--purple-text);
   }
 
 
-
+/*Josh*/
   .snippet-box-text {
     font-size: 26px;
     color: #f6f6ef;
     background-color: var(--purple-text);
   }
 
+  /*Josh*/
   .snippet.box-code{
 
 
   }
 
-
-
-
+/*David*/
 footer {
     width: 100%;
     height: 50px;
